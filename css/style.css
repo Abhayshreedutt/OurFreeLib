@@ -206,4 +206,20 @@ nav .menu-btn {
     border-radius: 10px;
     margin: 20px;
     position: relative;
+    flex-grow: 1;
 }
+
+.box img{
+    height: 90px;
+    margin: 10px;
+}
+
+.box font{
+    font-size: 1.5rem;
+    color: #10003b;
+    letter-spacing: 1px;
+    font-weight: 500;
+    overflow: hidden;
+}
+
+.box p
