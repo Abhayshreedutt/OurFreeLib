@@ -197,5 +197,13 @@ nav .menu-btn {
     align-items: center;
     justify-content: space-between;
     flex-direction: column;
-    width
+    width: 200px;
+    height: 400px;
+    text-align: center;
+    background-color: #80e3b5;
+    box-shadow: 2px 2px 20px rgba(1, 141, 83, 0.507);
+    padding: 20px;
+    border-radius: 10px;
+    margin: 20px;
+    position: relative;
 }
