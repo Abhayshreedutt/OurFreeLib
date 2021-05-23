@@ -496,6 +496,9 @@ ul{
 	color: #24262b;
 	background-color: #ffffff;
 }
+.footer p{
+    color: white;
+}
 
 /*responsive*/
 @media(max-width: 767px){
