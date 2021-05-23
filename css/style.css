@@ -222,4 +222,30 @@ nav .menu-btn {
     overflow: hidden;
 }
 
-.box p
+.box p{
+    font-size: 0.9rem;
+    color: rgb(0, 4, 54);
+    display: block;
+    font-weight: 500;
+    overflow: hidden;
+    max-width: 500px;
+    text-overflow: ellipsis;
+}
+.box a{
+    width: 150px;
+    height: 40px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    border: 2px solid #10003d;
+    text-transform: uppercase;
+    margin: auto;
+    border-radius: 5px;
+    font-weight: 600;
+    font-size: 0.9rem;
+    color: #10003d;
+    margin: 0px;
+}
+.box a:hover[
+    
+]
