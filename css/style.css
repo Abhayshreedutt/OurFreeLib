@@ -396,5 +396,20 @@ nav .menu-btn {
     nav .menu-btn:checked ~ .menu{
         display: block;
     }
+    .header-img{
+        display: none;
+    }
+    .header-text{
+        text-align: center;
+    }
+    .header-text a{
+        margin-left: 100px;
+    }
+    .about-heading{
+        margin: 20px;
+    }
+    .about-heading p{
+        text-align: center;
+    }
 
 }
