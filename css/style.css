@@ -246,6 +246,9 @@ nav .menu-btn {
     color: #10003d;
     margin: 0px;
 }
-.box a:hover[
-    
-]
+.box a:hover{
+    background-color: #10003d;
+    color: #ffffff;
+    transition: all ease 0.3s;
+    box-shadow: 2px 2px 20px rgba(1, 141, 83, 0.507);
+}
