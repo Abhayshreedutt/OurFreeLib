@@ -85,11 +85,11 @@ nav ul li a:hover {
 nav .menu-btn {
     display: none;
 }
-.about {
+.book {
     background-size: 1000px;
 }
 
-.about-heading {
+.book-heading {
     margin-top: 60px;
     display: flex;
     align-items: center;
@@ -97,7 +97,7 @@ nav .menu-btn {
     flex-direction: column;
 }
 
-.about-heading h2 {
+.book-heading h2 {
     line-height: 55px;
     font-size: 2.2rem;
     color: #ffffff;
@@ -107,7 +107,7 @@ nav .menu-btn {
     margin: 0px;
 }
 
-.about-heading p {
+.book-heading p {
     font-size: 0.9rem;
     color: rgb(235, 235, 235);
 }
