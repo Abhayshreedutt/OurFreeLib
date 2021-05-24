@@ -1,2 +1,2 @@
 # OurFreeLib
-https://abhayshreedutt.github.io/OurFreeLib/
+https://abhayshreedutt.github.io/ourfreelib
